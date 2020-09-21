@@ -13,7 +13,7 @@
 
 ## Description
 
-Takes user input to create custom ReadME
+Takes user input to create custom ReadMe
 
 ## License
 
@@ -21,15 +21,15 @@ MIT License
 
 ## Installation
 
-You can use git clone
+run npm install, then node index.js
 
 ## Usage
 
-npm install, then run node index.js
+You can use git clone
 
-## Contributing
+## Contributors
 
-There are none
+there are none
 
 ## Tests
 
@@ -37,6 +37,6 @@ run node index.js
 
 ## Questions
 
-You can reach me on GitHub at [vsmith08](https://www.github.com/vsmith08) 
+You can reach me on GitHub at [vsmith408](https://www.github.com/vsmith408) 
  or by email at victoriasmithh428@gmail.com.
     
