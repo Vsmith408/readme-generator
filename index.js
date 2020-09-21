@@ -102,7 +102,7 @@ ${answers.instructions}
 
 ${answers.usage}
 
-## Contributing
+## Contributers
 
 ${answers.guidelines}
 
