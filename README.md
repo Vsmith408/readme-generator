@@ -13,7 +13,7 @@
 
 ## Description
 
-Takes user input to create custom ReadMe
+Takes user input to create a custom ReadMe
 
 ## License
 
@@ -21,7 +21,7 @@ MIT License
 
 ## Installation
 
-run npm install, then node index.js
+npm install then node index.js
 
 ## Usage
 
